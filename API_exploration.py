@@ -43,7 +43,7 @@ import requests
                             # looks like they may already have most of the python code in their GH.
 #import requests
 
-# api_key = 'AIzaSyD8XScoNLWmpCG_4oTwCFtqViX34UmIle0'
+# api_key = ''
 
                         # Working Example - Httpbin.org
 import requests
